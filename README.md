@@ -18,4 +18,4 @@ This project consists of a Python script that analyzes CSV files to identify hac
 1. Place your CSV files in the same directory as the script.
 2. Run the script using the command:
    ```bash
-   python your_script_name.py
+   python main.py
